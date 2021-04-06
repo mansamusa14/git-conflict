@@ -11,7 +11,7 @@ class Maths {
     }
 
     public int sub(int first, int second) {
-        int minus = first - second;
+        int minus = second - first;
         return minus;
     }
 
